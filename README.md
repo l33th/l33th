@@ -9,7 +9,7 @@ Skills: HTML / CSS / SASS / JavaScript / ReactJS / Bootstrap / Material-UI / Go 
 - 🌱 I’m currently learning Solidity & Ethereum Smart Contracts. 
 - ⚡ Fun fact: I am a Cryptocurrency Enthusiast. 
 
-[![badge](https://glitch-image.vercel.app/api?text=Web%20Developer)](https://glitch-image.vercel.app/api?text=Sofware%Engineer)
+[![badge](https://glitch-image.vercel.app/api?text=Software%20Engineer)](https://glitch-image.vercel.app/api?text=Sofware%Engineer)
 -----------------------------------------------------------------------------
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
