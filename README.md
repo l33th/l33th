@@ -1,13 +1,13 @@
 ### Hello 👋, my name is Wilgerth.
 #### I am a full-stack Software Engineer.
 
-I am a Technology Enthusiast. I love technology and exploring it is one of the greatest joys of my life.
+I am a Technology Enthusiast. I love technology and exploring it. It is one of the greatest joys of my life.
 
 Skills: HTML / CSS / SASS / JavaScript / ReactJS / Bootstrap / Material-UI / Go / Python / MongoDB / Solidity
 
 - 🔭 I’m currently working on Google Clone & Slack Clone. 
 - 🌱 I’m currently learning Solidity & Ethereum Smart Contracts. 
-- ⚡ Fun fact: I am a Cryptocurrency Enthusiast. 
+- ⚡ Fun fact: I am a Cryptocurrency and Blockchain Enthusiast. 
 
 [![badge](https://glitch-image.vercel.app/api?text=Software%20Engineer)](https://glitch-image.vercel.app/api?text=Sofware%Engineer)
 <!-- ----------------------------------------------------------------------------- -->
@@ -20,7 +20,7 @@ Skills: HTML / CSS / SASS / JavaScript / ReactJS / Bootstrap / Material-UI / Go 
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/wmouton"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="l33th" /></a></p><br><br>
+<p><a href="https://ko-fi.com/wmouton"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="l33th" /></a></p><br><br><br>
 
 <!-- ----------------------------------------------------------------------------- -->
 
