@@ -29,7 +29,7 @@ Skills: HTML / CSS / SASS / JavaScript / ReactJS / Bootstrap / Material-UI / Go 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=l33th&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=l33th)  
+<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=l33th)-->  
 
 ![GitHub metrics](https://metrics.lecoq.io/l33th)  
 
