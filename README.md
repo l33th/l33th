@@ -1,4 +1,4 @@
-### Hello👋, my name is Wilgerth.
+### Hello 👋, my name is Wilgerth.
 #### I am a full-stack Software Engineer.
 
 ##### I am a Technology Enthusiast. I love technology and exploring it. It is one of the greatest joys of my life.
