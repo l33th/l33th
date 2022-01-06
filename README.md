@@ -7,7 +7,7 @@ Skills: HTML / CSS / SASS / JavaScript / ReactJS / Bootstrap / Material-UI / Go 
 
 - 🔭 I’m currently working on Google Clone & Slack Clone. 
 - 🌱 I’m currently learning Solidity & Ethereum Smart Contracts. 
-- ⚡ Fun fact: I am a Cryptocurrency and Blockchain Enthusiast. 
+- ⚡ Fun fact: I am a Cryptocurrency and Blockchain Enthusiast as well as an Artificial Intelligence and Open Source Enthusiast. 
 
 <!-- [![badge](https://glitch-image.vercel.app/api?text=Software%20Engineer)](https://glitch-image.vercel.app/api?text=Sofware%Engineer) -->
 <!-- ----------------------------------------------------------------------------- -->
