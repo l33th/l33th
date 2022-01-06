@@ -20,7 +20,7 @@ Skills: HTML / CSS / SASS / JavaScript / ReactJS / Bootstrap / Material-UI / Go 
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/wmouton"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="l33th" /></a></p><br><br><br>
+<p><a href="https://ko-fi.com/wmouton"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="l33th" /></a></p><br><br><br><br>
 
 <!-- ----------------------------------------------------------------------------- -->
 
