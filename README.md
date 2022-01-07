@@ -1,3 +1,4 @@
+![Imgur](https://i.imgur.com/lcoXyrd.png)
 ### Hello 👋, my name is Wilgerth.
 #### I am a full-stack Software Engineer.
 
