@@ -4,7 +4,7 @@
 
 Skills: HTML5 / CSS3 / SASS / JavaScript / ReactJS / Bootstrap / Material-UI / Go / Python / MongoDB / Solidity
 
-- 🔭 I’m currently working on a Slack Clone, a MERN Stack App, and Cryto Tracker. 
+- 🔭 I’m currently working on seven projects. 
 - 🌱 I’m also currently learning Blockchain Development using Solidity & Ethereum Smart Contracts. 
 - ⚡ Fun fact: I am a Cryptocurrency and Blockchain Enthusiast as well as an Artificial Intelligence and Open Source Enthusiast. 
 
