@@ -29,6 +29,20 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/wmouton"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="l33th" /></a></p><br><br><br><br>
 
+
+
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+			<script>
+			kofiWidgetOverlay.draw('wmouton', {
+				'type': 'floating-chat',
+				'floating-chat.donateButton.text': 'Support Me',
+				'floating-chat.donateButton.background-color': '#5cb85c',
+				'floating-chat.donateButton.text-color': '#fff'
+			});
+			</script>
+
+
+
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 
