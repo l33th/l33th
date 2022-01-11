@@ -25,4 +25,4 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=l33th)  
 
-![Profile views](https://gpvc.arturio.dev/l33th)  
+<!-- ![Profile views](https://gpvc.arturio.dev/l33th) -->
