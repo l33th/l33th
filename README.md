@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on seven projects. 
 - 🌱 I’m also currently learning Blockchain Development using Solidity & Ethereum Smart Contracts. 
-- ⚡ Fun fact: I am a Cryptocurrency and Blockchain Enthusiast as well as an Artificial Intelligence and Open Source Enthusiast. 
+- ⚡ Fun fact: I am a Cryptocurrency and Blockchain Enthusiast as well as an Artificial Intelligence and Open Source Enthusiast. I love the Go programming language and its potential in Web Development, AI, and Blockchain Development.
 
 <!-- [![badge](https://glitch-image.vercel.app/api?text=Software%20Engineer)](https://glitch-image.vercel.app/api?text=Sofware%Engineer) -->
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------- -->
