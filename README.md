@@ -21,7 +21,7 @@
 
 <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=l33th)-->  
 
-![GitHub metrics](https://metrics.lecoq.io/l33th)  
+<!-- ![GitHub metrics](https://metrics.lecoq.io/l33th)   -->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=l33th)  
 
