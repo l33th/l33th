@@ -2,7 +2,7 @@
 
 ##### I am a Technology Enthusiast. I love technology and exploring it. It is one of the greatest joys of my life.
 
-Skills: HTML5 / CSS3 / SASS / JavaScript / ReactJS / Bootstrap / Material-UI / Go / Python / MongoDB / Solidity
+<!-- Skills: HTML5 / CSS3 / SASS / JavaScript / ReactJS / Bootstrap / Material-UI / Go / Python / MongoDB / Solidity -->
 
 
 
