@@ -27,4 +27,4 @@
 
 <!-- ![Profile views](https://gpvc.arturio.dev/l33th) -->
 
-![GitHub metrics](https://metrics.lecoq.io/l33th)
+[GitHub metrics](https://metrics.lecoq.io/l33th)
