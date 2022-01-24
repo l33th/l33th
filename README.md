@@ -26,7 +26,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=l33th&show_icons=true)  
 
-<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=l33th)-->  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=l33th)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=l33th)  
 
