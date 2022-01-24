@@ -7,7 +7,6 @@
 
 <p align="left">  </p>
 
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I am currently working on nine projects. I am also learning Blockchain Development using Solidity & Ethereum Smart Contracts.
