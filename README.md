@@ -15,8 +15,16 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/wmouton"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="l33th" /></a></p><br><br><br><br>
+<!-- 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/l33th)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/wmouton/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/wl33th)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/l33th_dev) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://wmouton.netlify.app) -->
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/l33th)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/wmouton/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/wl33th)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/l33th_dev) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://wmouton.netlify.app)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/l33th_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/l33th/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="l33th" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/wmouton" target="blank"><img align="center" src="https://raw.githubusercontent.com/l33th/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="l33th" height="30" width="40" /></a>
+<a href="https://join.skype.com/invite/zciaB7cZUOha" target="blank"><img align="center" src="https://raw.githubusercontent.com/l33th/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="@l33th" height="30" width="40" /></a>
+</p>
+
 
 <!-- <img width="200%" height="260px" src="https://github-readme-stats.vercel.app/api/top-langs?username=l33th&show_icons=true&locale=en&layout=compact&langs_count=15" alt="l33th" /> -->
 
