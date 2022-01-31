@@ -21,7 +21,7 @@
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=l33th&show_icons=true&locale=en&layout=compact" alt="l33th" /> -->
 
 <!-- <p><img alt="Wilgerth Mouton's Most Used Languages Stats" width="100%" height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l33th&layout=compact&theme=tokionight&text_color=777777&bg_color=0D1117&border_color=0D1117&langs_count=10"></p> -->
-<p><img alt="Wilgerth Mouton's Most Used Languages Stats" width="100%" height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l33th&layout=compact&theme=tokionight&text_color=0&bg_color=#FFFFFF&border_color=0D1117&langs_count=10"></p>
+<p><img alt="Wilgerth Mouton's Most Used Languages Stats" width="100%" height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l33th&layout=compact&theme=tokionight&text_color=0&bg_color=000&border_color=0D1117&langs_count=10"></p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=l33th&show_icons=true)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=l33th)
 
