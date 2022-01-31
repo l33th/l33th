@@ -22,13 +22,14 @@
 
 <!-- <p><img alt="Wilgerth Mouton's Most Used Languages Stats" width="100%" height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l33th&layout=compact&theme=tokionight&text_color=777777&bg_color=0D1117&border_color=0D1117&langs_count=10"></p> -->
 
+<img alt="Wilgerth Mouton's Most Used Languages Stats" width="100%" height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l33th&layout=compact&theme=tokionight&text_color=777777&bg_color=0D1117&border_color=0D1117&langs_count=15">
+
 <div align="center">
     <img alt="Wilgerth Mouton's GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=l33th&theme=algolia&hide_border=true&count_private=true&show_icons=true">
     <img alt="Wilgerth Mouton's GitHub Streak" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=l33th&theme=algolia&hide_border=true">
 </div>
 
 <div align="center">
-    <img alt="Wilgerth Mouton's Most Used Languages Stats" width="48%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l33th&layout=compact&theme=tokionight&text_color=777777&bg_color=0D1117&border_color=0D1117&langs_count=10">
     <img alt="GitHub Activity Graph" width="96%" src="https://activity-graph.herokuapp.com/graph?username=l33th&theme=react-dark&area=true&hide_border=true&custom_title=Contributions%20Graph">
 </div>
 
