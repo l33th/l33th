@@ -76,7 +76,7 @@
 - 🔭 I am currently working on nine projects. I am also learning Blockchain Development using Solidity & Ethereum Smart Contracts.
 - 🌱  I love the Go programming language and I am currently building useful APIs using Go.
 - ⚡ Fun fact: I am a Cryptocurrency and Blockchain Enthusiast as well as an Artificial Intelligence and Open Source Enthusiast. I love the Go programming language and its potential in Web Development, AI, and Blockchain Development.
-
+ <br><br>
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/wmouton"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="l33th" /></a></p><br><br><br><br>
 
