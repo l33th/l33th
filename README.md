@@ -18,7 +18,7 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/l33th)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/wmouton/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/wl33th)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/l33th_dev) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://wmouton.netlify.app)
 
-<img width="100%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs?username=l33th&show_icons=true&locale=en&layout=compact&langs_count=10" alt="l33th" />
+<img width="100%" height="260px" src="https://github-readme-stats.vercel.app/api/top-langs?username=l33th&show_icons=true&locale=en&layout=compact&langs_count=10" alt="l33th" />
 
 <!-- <p><img alt="Wilgerth Mouton's Most Used Languages Stats" width="100%" height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l33th&layout=compact&theme=tokionight&text_color=777777&bg_color=0D1117&border_color=0D1117&langs_count=10"></p> -->
 
