@@ -76,7 +76,7 @@
  <br><br>
 <h3 align="left">Support:</h3>
 
-<h4><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bitcoin.svg' alt='bitcoin' height='40'> Bitcoin Wallet: 0x23cf7cB1CB4f03b1024F7F44030f9F42f45F8A8E</h4>
+<h4>Bitcoin Wallet: 0x23cf7cB1CB4f03b1024F7F44030f9F42f45F8A8E</h4>
 
 <p><a href="https://ko-fi.com/wmouton"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="l33th" /></a></p><br><br><br><br>
 <!-- 
