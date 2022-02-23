@@ -114,7 +114,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=l33th&show_icons=true)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=l33th)
 
-
 <div align="center">
     <img alt="GitHub Activity Graph" width="96%" src="https://activity-graph.herokuapp.com/graph?username=l33th&theme=react-dark&area=true&hide_border=true&custom_title=Contributions%20Graph">
 </div> -->
