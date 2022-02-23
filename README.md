@@ -46,7 +46,6 @@
 </td><td valign="top" width="33%">
 
 
-
 ### DevOps  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
