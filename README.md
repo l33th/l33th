@@ -82,10 +82,6 @@ I am a Technology Enthusiast. I love technology and exploring it. It is one of t
 
 <h4>Crypto Wallet: 0x23cf7cB1CB4f03b1024F7F44030f9F42f45F8A8E</h4>
 <br>
-
-<div align="center">
-<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/l33th/solidity-smart-contract/blob/main/github.gif"></a>       
-</div>
 <br>
 
 <br><br><br>
