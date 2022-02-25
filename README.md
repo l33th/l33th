@@ -82,6 +82,10 @@ I am a Technology Enthusiast. I love technology and exploring it. It is one of t
 
 <h4>Crypto Wallet: 0x23cf7cB1CB4f03b1024F7F44030f9F42f45F8A8E</h4>
 
+<div align="right">
+<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/l33th/solidity-smart-contract/blob/main/github.gif"></a>       
+</div>
+
 <br><br><br>
 <!-- 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/l33th)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/wmouton/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/wl33th)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/l33th_dev) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://wmouton.netlify.app) -->
