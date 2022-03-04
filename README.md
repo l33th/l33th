@@ -17,7 +17,7 @@ I am a Technology Enthusiast. I love technology and exploring it. It is one of t
  -->
  <br><br>
  
- ## Languages & Tools I Use:  
+## Languages & Tools I Use:  
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
