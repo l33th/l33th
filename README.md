@@ -80,7 +80,7 @@ I am a Technology Enthusiast. I love technology and exploring it. It is one of t
 <h3 align="left">Support:</h3>
 
 <p><a href="https://ko-fi.com/wmouton"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="l33th" /></a></p><br>
-<br><br><br>
+<br><br>
 
 <h4>
         MetaMask Wallet: 0x23cf7cB1CB4f03b1024F7F44030f9F42f45F8A8E <br>
