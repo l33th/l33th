@@ -83,7 +83,7 @@
 <p><a href="https://ko-fi.com/wmouton"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi2.png?v=3" height="50" width="210" alt="l33th" /></a></p><br>
 <br><br>
 
-<h4>
+<h5>
         BTC Wallet: 1PwHY22Y7m9g2EELn9xm1RBeFxR5SZq8g7 <br>
         ETH Wallet: 0x09ebA546853e1B08E3A73A99437873086D7F09Cc <br>
         SOL Wallet: AyoAwipm4oLpXDtmuFFmB1kd4FgcjAgcLrpfDuqGi5Vb <br>
@@ -91,7 +91,7 @@
         DOGE Wallet: DHHQV5bGBDRKTXGb75uYRc1MDkJX2X7hfU <br>
         XRP Wallet:  GA7O2FSFMDJAXVJZNI3FT6ZMMFZL4EEXACLRZT6OZFMKXSI6LFA7TDDG <br>
         XMR Wallet: 4BBLvKGoPt866jz3cBzasAE8akbpPrDm4TQYTYVSX4isPWPDpcGSeDjDHSW8FDYQcfDGN6ocHm2sUaD4NgmbPgcfVZnaFxo <br>
-</h4>
+</h5>
 <br>
 <br>
 
