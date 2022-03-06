@@ -79,7 +79,7 @@ I am a Technology Enthusiast. I love technology and exploring it. It is one of t
  <br><br>
 <h3 align="left">Support:</h3>
 
-<p><a href="https://ko-fi.com/wmouton"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="l33th" /></a></p><br>
+<p><a href="https://ko-fi.com/wmouton"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi2.png?v=3" height="50" width="210" alt="l33th" /></a></p><br>
 <br><br>
 
 <h4>
