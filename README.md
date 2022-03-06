@@ -70,8 +70,9 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <div align=center>
-# I am a Technology Enthusiast. I love technology and exploring it. It is one of the greatest joys of my life.
+<h5>I am a Technology Enthusiast. I love technology and exploring it. It is one of the greatest joys of my life.</h5>
 </div>
+<br>
 
 - 🔭 I am currently working on nine projects. I am also learning Blockchain Development using Solidity & Ethereum Smart Contracts.
 - 🌱 I love the Go programming language and I am currently building useful APIs using Go.
