@@ -75,7 +75,7 @@
 <br>
 
 - 🔭 I am currently working on nine projects. I am also learning Blockchain Development using Solidity & Ethereum Smart Contracts.
-- 🌱 I love the Go programming language and I am currently building useful APIs using Go.
+- 🌱 I love the Go programming language and I am currently building useful APIs using Go along with building Artificial Intelligence programs in Python.
 - ⚡ Fun fact: I am a Cryptocurrency and Blockchain Enthusiast as well as an Artificial Intelligence and Open Source Enthusiast. I love the Go programming language and its potential in Web Development, AI, and Blockchain Development.
  <br><br>
 <h3 align="left">Support:</h3>
