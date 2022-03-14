@@ -1,11 +1,9 @@
 ![Imgur](https://i.imgur.com/lcoXyrd.png)
 
 <br>
-
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello+I+am+WMouton+%F0%9F%91%8B;Software+Engineer;Problem+Solver;Freelancer;Blockchain+Enthusiast;Open-Source+Enthusiast;Entrepreneur" alt="Headline" />
     </div>
-
 <br>
 
 <!-- <h3 align="left">Languages & Tools I Use:</h3>
