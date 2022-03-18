@@ -7,7 +7,7 @@
 <br>
 
 <div align=center>
-<h4>In order to see all my top projects just search "project" by the repositories.</h4>
+<h1>In order to see all my top projects just search "project" by the repositories.</h1>
 </div>
 <br>
 
