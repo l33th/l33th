@@ -96,7 +96,6 @@
         XMR Wallet: 4BBLvKGoPt866jz3cBzasAE8akbpPrDm4TQYTYVSX4isPWPDpcGSeDjDHSW8FDYQcfDGN6ocHm2sUaD4NgmbPgcfVZnaFxo <br>
 </h5>
 <br>
-<br>
 
 <br>
 <!-- 
