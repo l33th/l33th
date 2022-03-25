@@ -1,5 +1,4 @@
-<!-- ![Imgur](https://i.imgur.com/lcoXyrd.png) -->
-![Imgur](https://avatars.githubusercontent.com/u/84017147?v=4)
+![Imgur](https://i.imgur.com/lcoXyrd.png)
 
 <br>
 <div align=center>
