@@ -77,9 +77,9 @@
 </div>
 <br>
 
-- 🔭 I am currently working on nine projects. I Blockchain Development using ReactJS and Solidity Smart Contracts.
+- 🔭 I am currently working on nine projects. I do Blockchain Development using Web3, ReactJS and Solidity.
 - 🌱 I love the Go programming language and I build useful APIs using Go. I am currently learning Artificial Intelligence and Machine Learning as well as Deep Learning and Neural Networks in Python.
-- ⚡ Fun fact: I am a Cryptocurrency and Blockchain Enthusiast as well as an Artificial Intelligence and Open Source Enthusiast. I love the Go programming language and its potential in Web Development, AI, and Blockchain Development.
+- ⚡ Fun fact: I am a Cryptocurrency and Blockchain Enthusiast as well as an Artificial Intelligence and Open Source Enthusiast. I admire the Go programming language and its potential in Web Development, AI & ML, and Blockchain Development.
  <br><br>
 <h3 align="left">Support:</h3>
 
