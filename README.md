@@ -16,7 +16,7 @@
  -->
  <br><br>
  
-## Languages & Tools I Use:  
+## Languages & Tools:  
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
