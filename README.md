@@ -73,7 +73,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <div align=center>
-<h4>I am a Technology Enthusiast. I love technology and exploring it. It is one of the greatest joys of my life.</h4>
+<h4>I am a Technology Aficionado. I love technology and exploring it. It is one of the greatest joys of my life.</h4>
 </div>
 <br>
 
