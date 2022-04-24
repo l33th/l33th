@@ -16,7 +16,7 @@
  <br><br>
  
 ## Languages & Tools:  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="22%">
 
 ### Frontend  
 <div align="center">  
@@ -34,7 +34,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="22%">
 
 ### Backend  
 <div align="center">  
@@ -51,7 +51,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="22%">
 
 ### DevOps  
 <div align="center">  
@@ -63,7 +63,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="22%">
         
 ### Artificial Intelligence  
 <div align="center">  
