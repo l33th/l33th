@@ -16,7 +16,7 @@
  <br><br>
  
 ## Languages & Tools:  
-<table><tr><td valign="top" width="22%">
+<table><tr><td valign="top" width="20%">
 
 ### Frontend  
 <div align="center">  
@@ -34,7 +34,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /> 
 </div>
 
-</td><td valign="top" width="22%">
+</td><td valign="top" width="20%">
 
 ### Backend  
 <div align="center">  
@@ -50,7 +50,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />
 </div>
 
-</td><td valign="top" width="22%">
+</td><td valign="top" width="20%">
 
 ### DevOps  
 <div align="center">  
@@ -65,7 +65,7 @@
 <br> <br>
         
 </td></table>
-<!-- </td><td valign="top" width="22%"></tr></table> -->
+<!-- </td><td valign="top" width="20%"></tr></table> -->
 
 <table><tr><td valign="top" width="100%">
         
