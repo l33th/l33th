@@ -77,7 +77,9 @@
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Colab" height="50" />  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="ScikitLearn" height="50" />  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="Numpy" height="50" />  
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="50" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="50" />
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="Pandas" height="50" />
+
 </div>
 
 </td></tr></table>
