@@ -62,7 +62,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 </div>
 
-</td><td valign="top" width="22%">
+<br>
+        
+</td><td valign="top" width="50%">
         
 ### Artificial Intelligence  
 <div align="center">  
@@ -75,7 +77,7 @@
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="50" />  
 </div>
 
-</td></tr></table>  
+</td></tr></table>
 
 <br/>  
  
