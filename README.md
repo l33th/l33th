@@ -62,9 +62,11 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 </div>
 
-<br>
+<br> <br>
         
-</td><td valign="top" width="50%">
+</td><td valign="top" width="22%"></tr></table>
+
+<table><tr><td valign="top" width="100%">
         
 ### Artificial Intelligence  
 <div align="center">  
