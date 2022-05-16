@@ -95,14 +95,14 @@
 </div>
 <br>
 
-- 🔭 I am currently working on four projects. I build Machine Learning algorithms and I do Blockchain Development using Web3, ReactJS and Solidity.
+- 🔭 I am currently working on four projects. I build Artificial Intelligence Systems and Machine Learning algorithms. I do Blockchain Development using Web3, ReactJS and Solidity.
 - 🌱 I love the Go programming language and I build useful APIs using Go. I am currently learning Artificial Intelligence and Machine Learning as well as Deep Learning and Neural Networks using Python.
 - ⚡ Fun fact: I am a Cryptocurrency and Blockchain Enthusiast as well as an Artificial Intelligence and Open Source Enthusiast. I admire the Go programming language and its potential in Web Development, Machine Learning, and Blockchain Development.
  <br><br>
 <!-- <h3 align="left">Support:</h3> -->
-<center>
+<div align=center>
 <p><a href="https://ko-fi.com/wmouton"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="l33th" /></a></p>
-</center>        
+</div>
 <br>
 <br><br>
 
