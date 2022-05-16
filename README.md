@@ -100,8 +100,8 @@
 - ⚡ Fun fact: I am a Cryptocurrency and Blockchain Enthusiast as well as an Artificial Intelligence and Open Source Enthusiast. I admire the Go programming language and its potential in Web Development, Machine Learning, and Blockchain Development.
  <br><br>
 <!-- <h3 align="left">Support:</h3> -->
-<div align="center">
-<p align="center"><a align="center" href="https://ko-fi.com/wmouton"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="l33th" /></a></p>
+<div>
+<p><a href="https://ko-fi.com/wmouton"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="l33th" /></a></p>
 </div>
 <br>
 <br><br>
