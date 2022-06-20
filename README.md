@@ -39,9 +39,9 @@ It is one of the greatest joys of my life.
 * Artificial Intelligence, Machine Learning, Deep Learning and Neural Networks.
 <br><br>
 * Fun facts:<br>
-            - I am a Linux and open-source enthusiast.
-            - I admire the Go programming language.
-            - I like playing first person shooter games.
+            - I am a Linux and open-source enthusiast.<br>
+            - I admire the Go programming language.<br>
+            - I like playing first person shooter games.<br>
 <br>
 <div align="center" >
 <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&amp;size=32&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=50&amp;lines=Hello+I+am+WMouton+%F0%9F%91%8B;Software+Engineer;Problem+Solver;Freelancer;Blockchain+Enthusiast;Open-Source+Enthusiast;Entrepreneur" alt="Headline">
