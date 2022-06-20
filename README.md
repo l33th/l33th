@@ -20,19 +20,13 @@ const l33th = {
     }
 };
 ```
-<br>
-<br>
-<br>
-<h3>&lt;&lt;&lt; JUST SEARCH "project" BY THE REPOSITORIES &gt;&gt;&gt;
-&lt;&lt; TO SEE ALL MY TOP PROJECTS &gt;&gt;&gt;
-</h3><br>
-<br>
-<br>
-<br>
-<h4>I love technology and its limitless potential.
+
+<h3 align="center">&lt;&lt;&lt; JUST SEARCH "project" BY THE REPOS >>>
+&lt;&lt;&lt; TO SEE ALL MY TOP PROJECTS >>>
+</h3>
+<h4 align="center">I love technology and its limitless potential.
 It is one of the greatest joys of my life.
-</h4><br>
-<br>
+</h4>
 <br>
 * Favorites: ReactJS, SASS, TypeScript, Tailwind, MaterialUI, ViteJS, Bootstrap.
 * Hosting: Netlify, Heroku, Vercel, GitHub Pages.
@@ -43,16 +37,17 @@ It is one of the greatest joys of my life.
 * I build Artificial Intelligence Systems and Machine Learning algorithms.
 * I love the Go programming language and I build useful APIs using Go.
 * Artificial Intelligence, Machine Learning, Deep Learning and Neural Networks.
-* Fun facts:
-\- I am a Linux and open\-source enthusiast\.
-\- I admire the Go programming language\.
-\- I like playing first person shooter games\.
-
-<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&amp;size=32&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=50&amp;lines=Hello+I+am+WMouton+%F0%9F%91%8B;Software+Engineer;Problem+Solver;Freelancer;Blockchain+Enthusiast;Open-Source+Enthusiast;Entrepreneur" alt="Headline">
-
 <br>
-## Languages & Tools:
-
+* Fun facts:
+&nbsp;&nbsp;- I am a Linux and open-source enthusiast.
+&nbsp;&nbsp;- I admire the Go programming language.
+&nbsp;&nbsp;- I like playing first person shooter games.
+<br>
+<div align="center" >
+<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&amp;size=32&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=50&amp;lines=Hello+I+am+WMouton+%F0%9F%91%8B;Software+Engineer;Problem+Solver;Freelancer;Blockchain+Enthusiast;Open-Source+Enthusiast;Entrepreneur" alt="Headline">
+</div>
+<br>
+<h2>Languages & Tools:</h2>
 <table><tbody><tr><td valign="top" width="20%">
 
 ### Frontend
@@ -72,16 +67,13 @@ It is one of the greatest joys of my life.
 
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="JupyterNotebook" height="50"> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Colab" height="50"> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" height="50"> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" height="50"> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="ScikitLearn" height="50"> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="50"> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="Numpy" height="50"> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="Pandas" height="50"></td></tr></tbody></table><br>
 <br>
-<br>
-<br>
-<a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&amp;style=for-the-badge" alt=""></a>
+<div align="center">
 <a href="https://wmouton-eth.netlify.app">Donate ETH</a>
 
 <a href="https://ko-fi.com/wmouton"><img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="l33th"></a>
-
-<br>
 <a href="https://twitter.com/l33th_dev" target="_blank">![twitter](https://img.shields.io/badge/twitter-%2300acee.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white) </a> <a href="https://linkedin.com/in/wmouton" target="_blank">![linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white) </a> <a href="https://www.facebook.com/wl33th" target="_blank">![facebook](https://img.shields.io/badge/facebook-%232E87FB.svg?&amp;style=for-the-badge&amp;logo=facebook&amp;logoColor=white)</a>
 
+</div>
 <br>
 <img alt="Wilgerth Mouton's Most Used Languages Stats" width="100%" height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l33th&amp;layout=compact&amp;theme=tokionight&amp;text_color=777777&amp;bg_color=0D1117&amp;border_color=0D1117&amp;langs_count=15">
 <img alt="Wilgerth Mouton's GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=l33th&amp;theme=algolia&amp;hide_border=true&amp;count_private=true&amp;show_icons=true"> <img alt="Wilgerth Mouton's GitHub Streak" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=l33th&amp;theme=algolia&amp;hide_border=true">
