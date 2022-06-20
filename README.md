@@ -24,7 +24,7 @@ const l33th = {
 <h3 align="center"><<< JUST SEARCH "project" BY THE REPOS >>><br>
 <<< TO SEE ALL MY TOP PROJECTS >>>
 </h3>
-<h4 align="center">I love technology and its limitless potential.
+<h4 align="center">I love technology and its limitless potential.<br>
 It is one of the greatest joys of my life.
 </h4>
 <br>
@@ -39,9 +39,9 @@ It is one of the greatest joys of my life.
 * Artificial Intelligence, Machine Learning, Deep Learning and Neural Networks.<br>
 <br><br>
 * Fun facts:<br>
-            - I am a Linux and open-source enthusiast.<br>
-            - I admire the Go programming language.<br>
-            - I like playing first person shooter games.<br>
+&nbsp;&nbsp;- I am a Linux and open-source enthusiast.<br>
+&nbsp;&nbsp;- I admire the Go programming language.<br>
+&nbsp;&nbsp;- I like playing first person shooter games.<br>
 <br>
 <div align="center" >
 <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&amp;size=32&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=50&amp;lines=Hello+I+am+WMouton+%F0%9F%91%8B;Software+Engineer;Problem+Solver;Freelancer;Blockchain+Enthusiast;Open-Source+Enthusiast;Entrepreneur" alt="Headline">
