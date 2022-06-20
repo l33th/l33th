@@ -4,7 +4,7 @@
 const l33th = {
     name: "wmouton",
     pronouns: "he" | "him",
-    website: "https://wmouton.netlify.app",
+    website: "https://wmouton.netlify.app",
     code: ["HTML", "CSS", "JavaScript", "Go", "Python", "Solidity", "Bash"],
     askMeAbout: ["Web Dev", "Blockchain", "Crypto", "AI", "Coffee"],
     technologies: {
@@ -21,8 +21,8 @@ const l33th = {
 };
 ```
 
-<h3 align="center">&lt;&lt;&lt; JUST SEARCH "project" BY THE REPOS >>>
-&lt;&lt;&lt; TO SEE ALL MY TOP PROJECTS >>>
+<h3 align="center"><<< JUST SEARCH "project" BY THE REPOS >>><br>
+<<< TO SEE ALL MY TOP PROJECTS >>>
 </h3>
 <h4 align="center">I love technology and its limitless potential.
 It is one of the greatest joys of my life.
