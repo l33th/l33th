@@ -21,14 +21,15 @@ const l33th = {
 };
 ```
 <br>
-<div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello+I+am+WMouton+%F0%9F%91%8B;Software+Engineer;Problem+Solver;Freelancer;Blockchain+Enthusiast;Open-Source+Enthusiast;Entrepreneur" alt="Headline" />
-    </div>
-<br>
 
 <div align=center>
 <h3>[ TO SEE ALL MY TOP PROJECTS JUST SEARCH "project" BY THE REPOSITORIES ]</h3>
 </div>
+<br>
+
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello+I+am+WMouton+%F0%9F%91%8B;Software+Engineer;Problem+Solver;Freelancer;Blockchain+Enthusiast;Open-Source+Enthusiast;Entrepreneur" alt="Headline" />
+    </div>
 <br>
 
 <!-- <h3 align="left">Languages & Tools:</h3>
