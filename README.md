@@ -125,8 +125,7 @@ const l33th = {
 <div align="center">
 <p><a href="https://ko-fi.com/wmouton"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="l33th" /></a></p>
 </div>
-<br>
-<br><br>
+
 
 <!-- <h5>
         BTC Wallet: 1PwHY22Y7m9g2EELn9xm1RBeFxR5SZq8g7 <br>
