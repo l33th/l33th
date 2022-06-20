@@ -75,7 +75,7 @@ It is one of the greatest joys of my life.
 
 </div>
 <br>
-<img alt="Wilgerth Mouton's Most Used Languages Stats" width="100%" height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l33th&amp;layout=compact&amp;theme=tokionight&amp;text_color=%23204A87&amp;bg_color=0D1117&amp;border_color=0D1117&amp;langs_count=15">
+<img alt="Wilgerth Mouton's Most Used Languages Stats" width="100%" height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l33th&amp;layout=compact&amp;theme=tokionight&amp;text_color=%23204A87&amp;bg_color=%230D1117&amp;border_color=0D1117&amp;langs_count=15">
 <img alt="Wilgerth Mouton's GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=l33th&amp;theme=algolia&amp;hide_border=true&amp;count_private=true&amp;show_icons=true"> <img alt="Wilgerth Mouton's GitHub Streak" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=l33th&amp;theme=algolia&amp;hide_border=true">
 <img alt="GitHub Activity Graph" width="96%" src="https://activity-graph.herokuapp.com/graph?username=l33th&amp;theme=react-dark&amp;area=true&amp;hide_border=true&amp;custom_title=Contributions%20Graph">
 ![GitHub metrics](https://metrics.lecoq.io/l33th)
