@@ -124,7 +124,6 @@ const l33th = {
 <!-- <h3 align="left">Support:</h3> -->
 <div align="center">
 <p><a href="https://wmouton-eth.netlify.app">Donate ETH</a></p>
-<br>
 <p><a href="https://ko-fi.com/wmouton"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="l33th" /></a></p>
 </div>
 
