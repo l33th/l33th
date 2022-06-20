@@ -37,8 +37,8 @@ It is one of the greatest joys of my life.
 * I build Artificial Intelligence Systems and Machine Learning algorithms.
 * I love the Go programming language and I build useful APIs using Go.
 * Artificial Intelligence, Machine Learning, Deep Learning and Neural Networks.
-<br>
-* Fun facts:
+<br><br>
+* Fun facts:<br>
             - I am a Linux and open-source enthusiast.
             - I admire the Go programming language.
             - I like playing first person shooter games.
