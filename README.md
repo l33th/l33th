@@ -3,20 +3,20 @@
 
 ```javascript
 const l33th = {
-    name: "wmouton"
+    name: "wmouton",
     pronouns: "he" | "him",
     code: ["HTML", "CSS", "JavaScript", "Go", "Python", "Solidity", "Bash"],
     askMeAbout: ["Web Dev", "Blockchain", "Crypto", "AI", "Coffee"],
     technologies: {
         frontEnd: {
-            js: ["ReactJS", "TypeScript", "NextJS" "Material-UI", "ZuStand"]
-            css: ["Tailwind", "SASS", "Bootstrap", "Bulma"]
+            js: ["ReactJS", "TypeScript", "NextJS" "Material-UI", "ZuStand"],
+            css: ["Tailwind", "SASS", "Bootstrap", "Bulma"],
         },
         backEnd: {
-            hosting: ["Netlify", "Heroku", "Vercel", "GithubPages", "Firebase"]
-            languages: ["Go", "NodeJS", "Solidity"]
+            hosting: ["Netlify", "Heroku", "Vercel", "GithubPages", "Firebase"],
+            languages: ["Go", "NodeJS", "Solidity"],
             mockingAPIs: ["Postman", "Mockoon"]
-        }
+        },
     }
 };
 ```
