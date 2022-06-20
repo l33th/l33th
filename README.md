@@ -122,9 +122,7 @@ const l33th = {
 - ⚡ Fun fact: I am a Cryptocurrency and Blockchain Enthusiast as well as an Artificial Intelligence and Open Source Enthusiast. I admire the Go programming language and its potential in Web Development, Machine Learning, and Blockchain Development.
  <br><br>
 <!-- <h3 align="left">Support:</h3> -->
-<a href="https://wmouton-eth" target="_blank">
-<img src=https://img.shields.io/badge/ethereum-%234B2D52.svg?&style=for-the-badge&logo=ethereum&logoColor=white alt=ethereum style="margin-bottom: 5px;" />
-</a>
+<script src="https://cdn.rawgit.com/eth-button/eth-button/09673e85d517452e18a5248b96115bc552a0ac01/dist/eth-button.js" data-address="0xc3a05d85F6b2A6B16fCD09987D2eEe221973B1C7" data-meta="eth-button"></script>
 <div align="center">
 <p><a href="https://ko-fi.com/wmouton"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="l33th" /></a></p>
 </div>
