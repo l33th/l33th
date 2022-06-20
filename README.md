@@ -28,15 +28,15 @@ const l33th = {
 It is one of the greatest joys of my life.
 </h4>
 <br>
-* Favorites: ReactJS, SASS, TypeScript, Tailwind, MaterialUI, ViteJS, Bootstrap.
-* Hosting: Netlify, Heroku, Vercel, GitHub Pages.
-* Programming Languages: JavaScript, Go, Python, Solidity.
-* Version Control System: Git & GitHub
-* I am currently working on three projects.
-* I do Blockchain Development using Web3, ReactJS and Solidity.
-* I build Artificial Intelligence Systems and Machine Learning algorithms.
-* I love the Go programming language and I build useful APIs using Go.
-* Artificial Intelligence, Machine Learning, Deep Learning and Neural Networks.
+* Favorites: ReactJS, SASS, TypeScript, Tailwind, MaterialUI, ViteJS, Bootstrap.<br>
+* Hosting: Netlify, Heroku, Vercel, GitHub Pages.<br>
+* Programming Languages: JavaScript, Go, Python, Solidity.<br>
+* Version Control System: Git & GitHub.<br>
+* I am currently working on three projects.<br>
+* I do Blockchain Development using Web3, ReactJS and Solidity.<br>
+* I build Artificial Intelligence Systems and Machine Learning algorithms.<br>
+* I love the Go programming language and I build useful APIs using Go.<br>
+* Artificial Intelligence, Machine Learning, Deep Learning and Neural Networks.<br>
 <br><br>
 * Fun facts:<br>
             - I am a Linux and open-source enthusiast.<br>
