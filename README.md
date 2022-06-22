@@ -3,14 +3,20 @@
 ``` javascript
 const l33th = {
     name: "wmouton",
-    pronouns: "he" | "him",
+    email: "wmouton.dev@gmail.com",
+    landingPage: "https://wmouton.herokuapp.com",
     website: "https://wmouton.netlify.app",
     code: ["HTML", "CSS", "JavaScript", "Go", "Python", "Solidity", "Bash"],
-    askMeAbout: ["Web Dev", "Blockchain", "Crypto", "AI", "Coffee"],
+    interests: ["Web3", "Blockchain", "Crypto", "AI", "Gaming", "Business"],
+    favBeverages: ["Water", "Coffee"],
+    donations: {
+        kofi: "https://ko-fi.com/wmouton",
+        crypto: "https://wmouton-eth.netlify.app"
+    },
     technologies: {
         frontEnd: {
-            js: ["ReactJS", "TypeScript", "NextJS" "Material-UI", "ZuStand"],
-            css: ["Tailwind", "SASS", "Bootstrap", "Bulma"],
+            js: ["JavaScript", "ReactJS", "TypeScript", "NextJS", "Material-UI", "ZuStand"],
+            css: ["Tailwind", "SASS", "Bootstrap", "Bulma", "CSS"]
         },
         backEnd: {
             hosting: ["Netlify", "Heroku", "Vercel", "GithubPages", "Firebase"],
@@ -25,7 +31,6 @@ const l33th = {
 <<< TO SEE ALL MY TOP PROJECTS >>>
 </h3>
 <h4 align="center">I love technology and its limitless potential.<br>
-It is one of the greatest joys of my life.
 </h4>
 <br>
 * Favorites: ReactJS, SASS, TypeScript, Tailwind, MaterialUI, ViteJS, Bootstrap.<br>
