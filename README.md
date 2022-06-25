@@ -32,10 +32,10 @@ const l33th = {
 </h3>
 </h4>
 <br>
-* Favorites: <span style="color: cyan">ReactJS, SASS, TypeScript, Tailwind, MaterialUI, ViteJS, Bootstrap</span>.<br>
-* Hosting: <span style="color: cyan">Netlify, Heroku, Vercel, GitHub Pages</span>.<br>
-* Programming Languages: <span style="color: cyan">JavaScript, Go, Python, Solidity</span>.<br>
-* Version Control System: <span style="color: cyan">Git & GitHub</span>.<br><br>
+* Favorites: ReactJS, SASS, TypeScript, Tailwind, MaterialUI, ViteJS, Bootstrap.<br>
+* Hosting: Netlify, Heroku, Vercel, GitHub Pages.<br>
+* Programming Languages: JavaScript, Go, Python, Solidity.<br>
+* Version Control System: Git & GitHub.<br><br>
 * I am currently working on three projects.<br>
 * I do Blockchain Development using Web3, ReactJS and Solidity.<br>
 * I build Artificial Intelligence Systems and Machine Learning algorithms.<br>
