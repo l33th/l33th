@@ -52,7 +52,6 @@ const l33th = {
 </div>
 <br>
 <h2>Languages & Tools:</h2>
-<table><tbody><tr><td valign="top" width="20%">
 
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -82,6 +81,9 @@ const l33th = {
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp; 
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
+
+<br>
+<table><tbody><tr><td valign="top" width="20%">
 
 <!-- ### Frontend
 
