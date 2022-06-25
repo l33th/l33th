@@ -30,7 +30,6 @@ const l33th = {
 <h3 align="center"><<< JUST SEARCH "project" BY THE REPOS >>><br>
 <<< TO SEE ALL MY TOP PROJECTS >>>
 </h3>
-<h4 align="center">I love technology and its limitless potential.<br>
 </h4>
 <br>
 * Favorites: ReactJS, SASS, TypeScript, Tailwind, MaterialUI, ViteJS, Bootstrap.<br>
