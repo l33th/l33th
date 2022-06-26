@@ -65,22 +65,35 @@ const l33th = {
 ![Gatsby](https://img.shields.io/badge/-Gatsby-05122A?style=flat&logo=Gatsby&logoColor=75507B)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go&logoColor=729FCF)&nbsp;
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=Solidity&logoColor=A8B9CC)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;\
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=73D216)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=3465A4)&nbsp;\
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![MongoDB (Statistics)](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&logoColor=276DC3)&nbsp;
+![SQLite (Statistics)](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite&logoColor=276DC3)&nbsp;
 ![Graphql](https://img.shields.io/badge/-Graphql-05122A?style=flat&logo=graphql&logoColor=F500A9)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase&logoColor=F57900)&nbsp;
 ![Markdown (Statistics)](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=Markdown&logoColor=276DC3)&nbsp;\
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![SublimeText (Statistics)](https://img.shields.io/badge/-SublimeText-05122A?style=flat&logo=SublimeText&logoColor=F57900)&nbsp;
+![Postman (Statistics)](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman&logoColor=F57900)&nbsp;
+![Heroku (Statistics)](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=Heroku&logoColor=75507B)&nbsp;
+![Netlify (Statistics)](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=Netlify&logoColor=276DC3)&nbsp;
+![Vercel (Statistics)](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=Vercel&logoColor=276DC3)&nbsp;
+![Docker (Statistics)](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=276DC3)&nbsp;
+![Anaconda (Statistics)](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=Anaconda&logoColor=73D216)&nbsp;\
+![Gimp](https://img.shields.io/badge/-Gimp-05122A?style=flat&logo=Gimp)&nbsp; 
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp; 
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Brave (Statistics)](https://img.shields.io/badge/-Brave-05122A?style=flat&logo=Brave&logoColor=FF3300)&nbsp;
+![Firefox (Statistics)](https://img.shields.io/badge/-Firefox-05122A?style=flat&logo=Firefox&logoColor=FF3300)&nbsp;\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![SublimeText (Statistics)](https://img.shields.io/badge/-SublimeText-05122A?style=flat&logo=SublimeText&logoColor=F57900)&nbsp;
+![Replit (Statistics)](https://img.shields.io/badge/-Replit-05122A?style=flat&logo=Replit&logoColor=276DC3)&nbsp;
+![GoLand (Statistics)](https://img.shields.io/badge/-GoLand-05122A?style=flat&logo=GoLand&logoColor=276DC3)&nbsp;\
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Debian (Statistics)](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=Debian&logoColor=EF2929)&nbsp;
+![Redhat (Statistics)](https://img.shields.io/badge/-Redhat-05122A?style=flat&logo=Redhat&logoColor=CC0000)&nbsp;
+![Windows (Statistics)](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=Windows&logoColor=276DC3)&nbsp;
 
 <br>
 <table><tbody><tr><td valign="top" width="20%">
@@ -104,6 +117,7 @@ const l33th = {
 <br>
 <div align="center">
 <a href="https://wmouton-eth.netlify.app">Donate ETH</a>
+
 
 <a href="https://ko-fi.com/wmouton"><img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="l33th"></a><br><br>
 <a href="https://twitter.com/l33th_dev" target="_blank">![twitter](https://img.shields.io/badge/twitter-%2300acee.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white) </a> <a href="https://linkedin.com/in/wmouton" target="_blank">![linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white) </a> <a href="https://www.facebook.com/wl33th" target="_blank">![facebook](https://img.shields.io/badge/facebook-%232E87FB.svg?&amp;style=for-the-badge&amp;logo=facebook&amp;logoColor=white)</a>
