@@ -68,7 +68,7 @@ const l33th = {
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=3465A4)&nbsp;\
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![MongoDB (Statistics)](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&logoColor=276DC3)&nbsp;
+![MongoDB (Statistics)](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&logoColor=4E9A06)&nbsp;
 ![SQLite (Statistics)](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite&logoColor=276DC3)&nbsp;
 ![Graphql](https://img.shields.io/badge/-Graphql-05122A?style=flat&logo=graphql&logoColor=F500A9)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase&logoColor=F57900)&nbsp;
@@ -89,9 +89,11 @@ const l33th = {
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![SublimeText (Statistics)](https://img.shields.io/badge/-SublimeText-05122A?style=flat&logo=SublimeText&logoColor=F57900)&nbsp;
 ![Replit (Statistics)](https://img.shields.io/badge/-Replit-05122A?style=flat&logo=Replit&logoColor=276DC3)&nbsp;
-![GoLand (Statistics)](https://img.shields.io/badge/-GoLand-05122A?style=flat&logo=GoLand&logoColor=276DC3)&nbsp;\
+![GoLand (Statistics)](https://img.shields.io/badge/-GoLand-05122A?style=flat&logo=GoLand&logoColor=276DC3)&nbsp;
+![WebStorm (Statistics)](https://img.shields.io/badge/-WebStorm-05122A?style=flat&logo=WebStorm&logoColor=159EC2)&nbsp;\
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Debian (Statistics)](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=Debian&logoColor=EF2929)&nbsp;
+![ArchLinux (Statistics)](https://img.shields.io/badge/-ArchLinux-05122A?style=flat&logo=ArchLinux&logoColor=276DC3)&nbsp;
 ![Redhat (Statistics)](https://img.shields.io/badge/-Redhat-05122A?style=flat&logo=Redhat&logoColor=CC0000)&nbsp;
 ![Windows (Statistics)](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=Windows&logoColor=276DC3)&nbsp;
 
