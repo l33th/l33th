@@ -33,7 +33,7 @@ const l33th = {
 </h3>
 </h4>
 <br>
-* Favorites: ReactJS, SASS, TypeScript, Tailwind, MaterialUI, ViteJS, Bootstrap.<br>
+* Favorites: ReactJS, SASS, TypeScript, Go, ViteJS, Tailwind, MaterialUI, Bootstrap.<br>
 * Hosting: Netlify, Heroku, Vercel, GitHub Pages.<br>
 * Programming Languages: JavaScript, Go, Python, Solidity.<br>
 * Version Control System: Git & GitHub.<br><br>
