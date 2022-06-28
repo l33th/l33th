@@ -1,3 +1,4 @@
+clear
 ### aboutMe.js
 
 ``` javascript
@@ -5,7 +6,7 @@ const l33th = {
     name: "wmouton",
     email: "wmouton.dev@gmail.com",
     landingPage: "https://wmouton.herokuapp.com",
-    website: "https://wmouton.netlify.app",
+    portfolio: "https://wmouton.netlify.app",
     code: ["HTML", "CSS", "JavaScript", "Go", "Python", "Solidity", "Bash"],
     interests: ["Web3", "Blockchain", "Crypto", "AI", "Gaming", "Business"],
     favBeverages: ["Water", "Coffee"],
@@ -27,8 +28,8 @@ const l33th = {
 };
 ```
 
-<h3 align="center"><<< JUST SEARCH "project" BY THE REPOS >>><br>
-<<< TO SEE ALL MY TOP PROJECTS >>>
+<h3 align="center">< JUST SEARCH "project" BY THE REPOS ><br>
+< TO SEE ALL MY TOP PROJECTS >
 </h3>
 </h4>
 <br>
