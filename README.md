@@ -29,7 +29,7 @@ const l33th = {
 ```
 
 <h3 align="center">< SEARCH "project" BY THE REPOS ><br>
-< TO SEE ALL MY TOP PROJECTS >
+< TO SEE MY TOP PROJECTS >
 </h3>
 </h4>
 <br>
@@ -37,7 +37,7 @@ const l33th = {
 * Hosting: Netlify, Heroku, Vercel, GitHub Pages.<br>
 * Programming Languages: JavaScript, Go, Python, Solidity.<br>
 * Version Control System: Git & GitHub.<br><br>
-* I am currently working on three projects.<br>
+* I am currently working on two projects.<br>
 * I do Blockchain Development using Web3, ReactJS and Solidity.<br>
 * I build Artificial Intelligence Systems and Machine Learning algorithms.<br>
 * I love the Go programming language and I build useful APIs using Go.<br>
