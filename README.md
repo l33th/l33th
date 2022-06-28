@@ -28,7 +28,7 @@ const l33th = {
 };
 ```
 
-<h3 align="center">< JUST SEARCH "project" BY THE REPOS ><br>
+<h3 align="center">< SEARCH "project" BY THE REPOS ><br>
 < TO SEE ALL MY TOP PROJECTS >
 </h3>
 </h4>
