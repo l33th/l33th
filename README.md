@@ -43,7 +43,7 @@ const l33th = {
 * I build Artificial Intelligence Systems and Machine Learning algorithms.<br>
 * I love the Go programming language and I build Web APIs using Golang.<br>
 * Artificial Intelligence, Machine Learning, Deep Learning and Neural Networks.<br>
-<br><br>
+<br>
 * Fun facts:<br>
             - I am a Linux and open-source enthusiast.<br>
             - I admire the Go programming language.<br>
