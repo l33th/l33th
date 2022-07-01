@@ -7,9 +7,7 @@ const l33th = {
     email: "wmouton.dev@gmail.com",
     landingPage: "https://wmouton.herokuapp.com",
     portfolio: "https://wmouton.netlify.app",
-    code: ["HTML", "CSS", "JavaScript", "Go", "Python", "Solidity", "Bash"],
-    interests: ["Web3", "Blockchain", "Crypto", "AI", "Gaming", "Business"],
-    favBeverages: ["Water", "Coffee"],
+    progLanguages: ["JavaScript", "Golang", "Python", "Solidity", "Bash"],
     donations: {
         kofi: "https://ko-fi.com/wmouton",
         crypto: "https://wmouton-eth.netlify.app"
@@ -21,7 +19,7 @@ const l33th = {
         },
         backEnd: {
             hosting: ["Netlify", "Heroku", "Vercel", "GithubPages"],
-            languages: ["Go", "NodeJS", "Solidity"],
+            languages: ["Golang", "NodeJS", "Solidity"],
             database: ["MongoDB", "PostgreSQL", "Firebase"]
             mockingAPIs: ["Postman", "Mockoon"]
         },
@@ -35,16 +33,15 @@ const l33th = {
 </h4>
 <br>
 * Front-End Favorites: ReactJS, TypeScript, SASS, ViteJS, NextJS, MaterialUI.<br>
-* Back-End Favorites: Go, MongoDB, PostgreSQL, Firebase, Postman.<br>
+* Back-End Favorites: Golang, Solidity, MongoDB, PostgreSQL, Firebase, Postman.<br>
 * Hosting: Netlify, Heroku, Vercel, GitHub Pages.<br>
-* Programming Languages: JavaScript, Go, Python, Solidity.<br>
+* Programming Languages: JavaScript, Golang, Python, Solidity, Bash.<br>
 * Version Control System: Git & GitHub.<br>
 * Package Managers: PNPM, NPM<br>
 * Favorite Text Editors & IDEs: VSCode, WebStorm, GoLand, Sublime-Text.<br><br>
-* I am currently working on two projects.<br>
 * I do Blockchain Development using Web3, ReactJS and Solidity.<br>
 * I build Artificial Intelligence Systems and Machine Learning algorithms.<br>
-* I love the Go programming language and I build Web APIs using Go.<br>
+* I love the Go programming language and I build Web APIs using Golang.<br>
 * Artificial Intelligence, Machine Learning, Deep Learning and Neural Networks.<br>
 <br><br>
 * Fun facts:<br>
