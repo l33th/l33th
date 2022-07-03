@@ -20,7 +20,7 @@ const l33th = {
         backEnd: {
             hosting: ["Netlify", "Heroku", "Vercel", "GithubPages"],
             languages: ["Golang", "NodeJS", "Solidity"],
-            database: ["MongoDB", "PostgreSQL", "Firebase"]
+            database: ["MongoDB", "PostgreSQL", "Firebase"],
             mockingAPIs: ["Postman", "Mockoon"]
         },
     }
