@@ -38,18 +38,20 @@ const l33th = {
 * Version Control System: Git & GitHub.<br>
 * Package Managers: PNPM, NPM<br>
 * Favorite Text Editors & IDEs: VSCode, WebStorm, GoLand, Sublime-Text.<br><br>
+* I have been a Linux user for over 7 years.<br>
 * I do Blockchain Development using Web3, ReactJS and Solidity.<br>
 * I build Artificial Intelligence Systems and Machine Learning algorithms.<br>
 * I love the Go programming language and I build Web APIs using Golang.<br>
 * Artificial Intelligence, Machine Learning, Deep Learning and Neural Networks.<br>
 <br>
 * Fun facts:<br>
-            - I am a Linux and open-source enthusiast.<br>
+            - I use Linux as my daily driver.<br>
+            - I am an open-source enthusiast.<br>
             - I admire the Go programming language.<br>
             - I like playing first person shooter games.<br>
 <br>
 <div align="center" >
-<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&amp;size=32&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=50&amp;lines=Hello+I+am+WMouton+%F0%9F%91%8B;Software+Engineer;Linux+Wizard;Blockchain+Enthusiast;Open-Source+Enthusiast;" alt="Headline">
+<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&amp;size=32&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=50&amp;lines=Software+Engineer;Linux+Wizard;Blockchain+Enthusiast;Open-Source+Enthusiast;" alt="Headline">
 </div>
 <br>
 <h2>Languages & Tools:</h2>
