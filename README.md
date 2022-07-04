@@ -1,4 +1,3 @@
-clear
 ### aboutMe.js
 
 ``` javascript
