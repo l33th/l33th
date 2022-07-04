@@ -60,38 +60,38 @@ const l33th = {
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![TypeScript (Statistics)](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript&logoColor=276DC3)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS)&nbsp;\
+![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=TailwindCSS)&nbsp;
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=Vite&logoColor=EDD400)&nbsp;
 ![Gatsby](https://img.shields.io/badge/-Gatsby-05122A?style=flat&logo=Gatsby&logoColor=75507B)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go&logoColor=729FCF)&nbsp;
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=Solidity&logoColor=A8B9CC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=3465A4)&nbsp;\
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=3465A4)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![MongoDB (Statistics)](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&logoColor=4E9A06)&nbsp;
 ![SQLite (Statistics)](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite&logoColor=276DC3)&nbsp;
 ![Graphql](https://img.shields.io/badge/-Graphql-05122A?style=flat&logo=graphql&logoColor=F500A9)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase&logoColor=F57900)&nbsp;
-![Markdown (Statistics)](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=Markdown&logoColor=276DC3)&nbsp;\
+![Markdown (Statistics)](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=Markdown&logoColor=276DC3)&nbsp;
 ![Postman (Statistics)](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman&logoColor=F57900)&nbsp;
 ![Heroku (Statistics)](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=Heroku&logoColor=75507B)&nbsp;
 ![Netlify (Statistics)](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=Netlify&logoColor=276DC3)&nbsp;
 ![Vercel (Statistics)](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=Vercel&logoColor=276DC3)&nbsp;
 ![Docker (Statistics)](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=276DC3)&nbsp;
-![Anaconda (Statistics)](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=Anaconda&logoColor=73D216)&nbsp;\
+![Anaconda (Statistics)](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=Anaconda&logoColor=73D216)&nbsp;
 ![Gimp](https://img.shields.io/badge/-Gimp-05122A?style=flat&logo=Gimp)&nbsp; 
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp; 
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Brave (Statistics)](https://img.shields.io/badge/-Brave-05122A?style=flat&logo=Brave&logoColor=FF3300)&nbsp;
-![Firefox (Statistics)](https://img.shields.io/badge/-Firefox-05122A?style=flat&logo=Firefox&logoColor=FF3300)&nbsp;\
+![Firefox (Statistics)](https://img.shields.io/badge/-Firefox-05122A?style=flat&logo=Firefox&logoColor=FF3300)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![SublimeText (Statistics)](https://img.shields.io/badge/-SublimeText-05122A?style=flat&logo=SublimeText&logoColor=F57900)&nbsp;
 ![Replit (Statistics)](https://img.shields.io/badge/-Replit-05122A?style=flat&logo=Replit&logoColor=276DC3)&nbsp;
 ![GoLand (Statistics)](https://img.shields.io/badge/-GoLand-05122A?style=flat&logo=GoLand&logoColor=276DC3)&nbsp;
-![WebStorm (Statistics)](https://img.shields.io/badge/-WebStorm-05122A?style=flat&logo=WebStorm&logoColor=159EC2)&nbsp;\
+![WebStorm (Statistics)](https://img.shields.io/badge/-WebStorm-05122A?style=flat&logo=WebStorm&logoColor=159EC2)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Debian (Statistics)](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=Debian&logoColor=EF2929)&nbsp;
 ![ArchLinux (Statistics)](https://img.shields.io/badge/-ArchLinux-05122A?style=flat&logo=ArchLinux&logoColor=276DC3)&nbsp;
