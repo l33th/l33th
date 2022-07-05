@@ -13,8 +13,8 @@ const l33th = {
     },
     technologies: {
         frontEnd: {
-            js: ["JavaScript", "ReactJS", "TypeScript", "NextJS", "Material-UI", "ZuStand"],
-            css: ["Tailwind", "SASS", "Bootstrap"]
+            js: ["ReactJS", "TypeScript", "NextJS", "Material-UI", "ZuStand", "Redux"],
+            css: ["SASS", "Tailwind", "Bootstrap"]
         },
         backEnd: {
             hosting: ["Netlify", "Heroku", "Vercel", "GithubPages"],
