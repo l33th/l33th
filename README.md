@@ -118,6 +118,7 @@ const l33th = {
 <a href="https://twitter.com/l33th_dev" target="_blank">![twitter](https://img.shields.io/badge/twitter-%2300acee.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white) </a> <a href="https://linkedin.com/in/wmouton" target="_blank">![linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white) </a> <a href="https://www.facebook.com/wl33th" target="_blank">![facebook](https://img.shields.io/badge/facebook-%232E87FB.svg?&amp;style=for-the-badge&amp;logo=facebook&amp;logoColor=white)</a>
 
 </div>
+<!-- 
 <div align="center">
 <style>
 .button {
@@ -157,7 +158,7 @@ const l33th = {
 }
 </style>
 <button class="button" style="vertical-align:middle"><a href="https://wmouton-eth.netlify.app"><span>Donate ETH </span></a></button><button class="button" style="vertical-align:middle"><a href="https://ko-fi.com"><span>Ko-Fi </span></a></button>
-</div>
+</div> -->
 <img alt="Wilgerth Mouton's Most Used Languages Stats" width="100%" height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l33th&amp;layout=compact&amp;theme=tokionight&amp;text_color=%23204A87&amp;bg_color=050F2C&amp;border_color=0D1117&amp;langs_count=15">
 
 <img alt="Wilgerth Mouton's GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=l33th&amp;theme=algolia&amp;hide_border=true&amp;count_private=true&amp;show_icons=true"> <img alt="Wilgerth Mouton's GitHub Streak" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=l33th&amp;theme=algolia&amp;hide_border=true"><img alt="GitHub Activity Graph" width="96%" src="https://activity-graph.herokuapp.com/graph?username=l33th&amp;theme=react-dark&amp;area=true&amp;hide_border=true&amp;custom_title=Contributions%20Graph">
