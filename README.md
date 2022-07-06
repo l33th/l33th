@@ -30,20 +30,17 @@ const l33th = {
 < TO SEE MY TOP PROJECTS >
 </h3>
 </h4>
-<br>
-
-* Front-End Favorites: ReactJS, TypeScript, SASS, ViteJS, NextJS, MaterialUI.<br>
-* Back-End Favorites: Golang, Solidity, MongoDB, PostgreSQL, Firebase, Postman.<br>
-* Programming Languages: JavaScript, Golang, Python, Solidity, Bash.<br>
-* Favorite Text Editors & IDEs: VSCode, WebStorm, GoLand, Sublime-Text.<br>
+<!-- * Front-End Favorites: ReactJS, TypeScript, SASS, ViteJS, NextJS, MaterialUI.<br> -->
+<!-- * Back-End Favorites: Golang, Solidity, MongoDB, PostgreSQL, Firebase, Postman.<br> -->
+<!-- * Programming Languages: JavaScript, Golang, Python, Solidity, Bash.<br> -->
+<!-- * Favorite Text Editors & IDEs: VSCode, WebStorm, GoLand, Sublime-Text.<br> -->
 <br>
 
 👩‍💻 I'm currently working on a video conferencing web application.<br>
 🧠 I'm currently learning Zustand and more advanced TypeScript.<br>
 👯‍♀️ I'm looking to build or collaborate on a full-stack project using:<br>
 <span style="padding-left:5%">- ViteJS &amp; PNPM</span><br>
-<span style="padding-left:5%">- ReactJS</span><br>
-<span style="padding-left:5%">- TypeScript</span><br>
+<span style="padding-left:5%">- ReactJS &amp; TypeScript</span><br>
 <span style="padding-left:5%">- SASS or TailwindCSS</span><br>
 <span style="padding-left:5%">- Zustand</span><br>
 <span style="padding-left:5%">- Golang</span><br>
@@ -59,10 +56,6 @@ const l33th = {
 <br>
 <!-- 🤔 I'm looking for help with... -->
 
-
-<div align="center" >
-<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&amp;size=32&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=50&amp;lines=Software+Engineer;Linux+Wizard;Blockchain+Enthusiast;Open-Source+Enthusiast;" alt="Headline">
-</div>
 <br>
 <h2>Languages & Tools:</h2>
 
@@ -75,6 +68,7 @@ const l33th = {
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=TailwindCSS)&nbsp;
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=Vite&logoColor=EDD400)&nbsp;
+![ZuStand](https://img.shields.io/badge/-Zustand-05122A?style=flat&logo=Zustand&logoColor=75507B)&nbsp;
 ![Gatsby](https://img.shields.io/badge/-Gatsby-05122A?style=flat&logo=Gatsby&logoColor=75507B)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go&logoColor=729FCF)&nbsp;
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=Solidity&logoColor=A8B9CC)&nbsp;
@@ -111,6 +105,9 @@ const l33th = {
 ![Windows (Statistics)](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=Windows&logoColor=276DC3)&nbsp;
 
 <br>
+<div align="center" >
+<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&amp;size=32&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=50&amp;lines=Software+Engineer;Linux+Wizard;Blockchain+Enthusiast;Open-Source+Enthusiast;" alt="Headline">
+</div>
 <table><tbody><tr><td valign="top" width="20%">
 <br>
 <!-- <h2>Trophies</h2>
