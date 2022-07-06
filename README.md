@@ -68,7 +68,6 @@ const l33th = {
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=TailwindCSS)&nbsp;
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=Vite&logoColor=EDD400)&nbsp;
-![ZuStand](https://img.shields.io/badge/-Zustand-05122A?style=flat&logo=Zustand&logoColor=75507B)&nbsp;
 ![Gatsby](https://img.shields.io/badge/-Gatsby-05122A?style=flat&logo=Gatsby&logoColor=75507B)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go&logoColor=729FCF)&nbsp;
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=Solidity&logoColor=A8B9CC)&nbsp;
