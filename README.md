@@ -47,13 +47,23 @@ const l33th = {
 <span style="padding-left:5%">- MongoDB or PostgreSQL</span>
 <br><br>
 ⚡️ Fun facts...<br>
-<span style="padding-left:5%">- I was a cyber security engineer before I became a developer.</span><br>
-<span style="padding-left:5%">- I have been a Linux user for over 7 years and it is my daily driver.</span><br>
-<span style="padding-left:5%">- I am familiar with Blockchain Development and Machine Learning.</span><br>
-<span style="padding-left:5%">- I like algorithms, data structures and puzzles.</span><br>
-<span style="padding-left:5%">- I admire the Go programming language.</span><br>
-<span style="padding-left:5%">- I like playing first person shooter games.</span><br>
+<span style="padding-left:5%">* I was a cyber security engineer before I became a developer.</span><br>
+<span style="padding-left:5%">* I have been a Linux user for over 7 years and it is my daily driver.</span><br>
+<span style="padding-left:5%">* I am familiar with Blockchain Development and Machine Learning.</span><br>
+<span style="padding-left:5%">* I like algorithms, data structures and puzzles.</span><br>
+<span style="padding-left:5%">* I admire the Go programming language.</span><br>
+<span style="padding-left:5%">* I like playing first person shooter games.</span><br>
 <br>
+
+## Tech Stack
+
+**Client:** ReactJS, TypeScript, SASS, Tailwind, Bootstrap
+
+**Server:** Go, NodeJS, ExpressJS
+
+**Database:** MongoDB, PostgreSQL, Firebase
+
+
 <!-- 🤔 I'm looking for help with... -->
 
 <br>
