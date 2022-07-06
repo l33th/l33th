@@ -7,10 +7,6 @@ const l33th = {
     landingPage: "https://wmouton.herokuapp.com",
     portfolio: "https://wmouton.netlify.app",
     progLanguages: ["JavaScript", "Golang", "Python", "Solidity", "Bash"],
-    donations: {
-        kofi: "https://ko-fi.com/wmouton",
-        crypto: "https://wmouton-eth.netlify.app"
-    },
     technologies: {
         frontEnd: {
             js: ["ReactJS", "TypeScript", "NextJS", "Material-UI", "ZuStand", "Redux"],
@@ -54,15 +50,14 @@ const l33th = {
 <span style="padding-left:5%">* I admire the Go programming language.</span><br>
 <span style="padding-left:5%">* I like playing first person shooter games.</span><br>
 <br>
-
+<!-- 
 ## Tech Stack
 
 **Client:** ReactJS, TypeScript, SASS, Tailwind, Bootstrap
 
 **Server:** Go, NodeJS, ExpressJS
 
-**Database:** MongoDB, PostgreSQL, Firebase
-
+**Database:** MongoDB, PostgreSQL, Firebase -->
 
 <!-- 🤔 I'm looking for help with... -->
 
