@@ -31,25 +31,35 @@ const l33th = {
 </h3>
 </h4>
 <br>
+
 * Front-End Favorites: ReactJS, TypeScript, SASS, ViteJS, NextJS, MaterialUI.<br>
 * Back-End Favorites: Golang, Solidity, MongoDB, PostgreSQL, Firebase, Postman.<br>
-* Hosting: Netlify, Heroku, Vercel, GitHub Pages.<br>
 * Programming Languages: JavaScript, Golang, Python, Solidity, Bash.<br>
-* Version Control System: Git & GitHub.<br>
-* Package Managers: PNPM, NPM<br>
-* Favorite Text Editors & IDEs: VSCode, WebStorm, GoLand, Sublime-Text.<br><br>
-* I have been a Linux user for over 7 years.<br>
-* I do Blockchain Development using Web3, ReactJS and Solidity.<br>
-* I build Artificial Intelligence Systems and Machine Learning algorithms.<br>
-* I love the Go programming language and I build Web APIs using Golang.<br>
-* Artificial Intelligence, Machine Learning, Deep Learning and Neural Networks.<br>
+* Favorite Text Editors & IDEs: VSCode, WebStorm, GoLand, Sublime-Text.<br>
 <br>
-* Fun facts:<br>
-            - I use Linux as my daily driver.<br>
-            - I am an open-source enthusiast.<br>
-            - I admire the Go programming language.<br>
-            - I like playing first person shooter games.<br>
+
+👩‍💻 I'm currently working on a video conferencing web application.<br>
+🧠 I'm currently learning Zustand and more advanced TypeScript.<br>
+👯‍♀️ I'm looking to build or collaborate on a full-stack project using:<br>
+<span style="padding-left:5%">- ViteJS &amp; PNPM</span><br>
+<span style="padding-left:5%">- ReactJS</span><br>
+<span style="padding-left:5%">- TypeScript</span><br>
+<span style="padding-left:5%">- SASS or TailwindCSS</span><br>
+<span style="padding-left:5%">- Zustand</span><br>
+<span style="padding-left:5%">- Golang</span><br>
+<span style="padding-left:5%">- MongoDB or PostgreSQL</span>
+<br><br>
+⚡️ Fun facts...<br>
+<span style="padding-left:5%">- I was a cyber security engineer before I became a developer.</span><br>
+<span style="padding-left:5%">- I have been a Linux user for over 7 years and it is my daily driver.</span><br>
+<span style="padding-left:5%">- I am familiar with Blockchain Development and Machine Learning.</span><br>
+<span style="padding-left:5%">- I like algorithms, data structures and puzzles.</span><br>
+<span style="padding-left:5%">- I admire the Go programming language.</span><br>
+<span style="padding-left:5%">- I like playing first person shooter games.</span><br>
 <br>
+<!-- 🤔 I'm looking for help with... -->
+
+
 <div align="center" >
 <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&amp;size=32&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=50&amp;lines=Software+Engineer;Linux+Wizard;Blockchain+Enthusiast;Open-Source+Enthusiast;" alt="Headline">
 </div>
@@ -102,33 +112,56 @@ const l33th = {
 
 <br>
 <table><tbody><tr><td valign="top" width="20%">
-
-<!-- ### Frontend
-
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="SASS" height="50"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="50"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50"></td><td valign="top" width="20%">
-
-### Backend
-
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50"></td><td valign="top" width="20%">
-
-### DevOps
-
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50"></td></tr></tbody></table><br>
-<table><tbody><tr><td valign="top" width="100%">
-
-### Artificial Intelligence
-
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="JupyterNotebook" height="50"> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Colab" height="50"> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" height="50"> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" height="50"> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="ScikitLearn" height="50"> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="50"> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="Numpy" height="50"> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="Pandas" height="50"></td></tr></tbody></table><br> -->
 <br>
+<!-- <h2>Trophies</h2>
+    <a href="https://github.com/l33th/">
+        <img width="98%" alt="Trophy" src="https://l33th-github-trophy.vercel.app/?username=l33th&row=4&theme=tokyonight&no-frame=true"/>
+    </a> -->
 <div align="center">
-<a href="https://wmouton-eth.netlify.app">Donate ETH</a>
 
-
-<a href="https://ko-fi.com/wmouton"><img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="l33th"></a><br><br>
 <a href="https://twitter.com/l33th_dev" target="_blank">![twitter](https://img.shields.io/badge/twitter-%2300acee.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white) </a> <a href="https://linkedin.com/in/wmouton" target="_blank">![linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white) </a> <a href="https://www.facebook.com/wl33th" target="_blank">![facebook](https://img.shields.io/badge/facebook-%232E87FB.svg?&amp;style=for-the-badge&amp;logo=facebook&amp;logoColor=white)</a>
 
 </div>
-<br>
+<div align="center">
+<style>
+.button {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #050F2C;
+  border: none;
+  color: #050F2C !important;
+  text-align: center;
+  font-size: 20px;
+  padding: 20px;
+  width: 180px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+.button:hover span {
+  padding-right: 25px;
+}
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+</style>
+<button class="button" style="vertical-align:middle"><a href="https://wmouton-eth.netlify.app"><span>Donate ETH </span></a></button><button class="button" style="vertical-align:middle"><a href="https://ko-fi.com"><span>Ko-Fi </span></a></button>
+</div>
 <img alt="Wilgerth Mouton's Most Used Languages Stats" width="100%" height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l33th&amp;layout=compact&amp;theme=tokionight&amp;text_color=%23204A87&amp;bg_color=050F2C&amp;border_color=0D1117&amp;langs_count=15">
 
 <img alt="Wilgerth Mouton's GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=l33th&amp;theme=algolia&amp;hide_border=true&amp;count_private=true&amp;show_icons=true"> <img alt="Wilgerth Mouton's GitHub Streak" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=l33th&amp;theme=algolia&amp;hide_border=true"><img alt="GitHub Activity Graph" width="96%" src="https://activity-graph.herokuapp.com/graph?username=l33th&amp;theme=react-dark&amp;area=true&amp;hide_border=true&amp;custom_title=Contributions%20Graph">
