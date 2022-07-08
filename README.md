@@ -9,7 +9,7 @@ const l33th = {
     progLanguages: ["JavaScript", "Golang", "Python", "Solidity", "Bash"],
     technologies: {
         frontEnd: {
-            js: ["ReactJS", "TypeScript", "NextJS", "Material-UI", "ZuStand", "Redux"],
+            js: ["ReactJS", "TypeScript", "NextJS", "Remix", "MUI"],
             css: ["SASS", "Tailwind", "Bootstrap"]
         },
         backEnd: {
@@ -25,22 +25,24 @@ const l33th = {
 <h3 align="center">< SEARCH "project" BY THE REPOS ><br>
 < TO SEE MY TOP PROJECTS >
 </h3>
-</h4>
+<br>
 <!-- * Front-End Favorites: ReactJS, TypeScript, SASS, ViteJS, NextJS, MaterialUI.<br> -->
 <!-- * Back-End Favorites: Golang, Solidity, MongoDB, PostgreSQL, Firebase, Postman.<br> -->
 <!-- * Programming Languages: JavaScript, Golang, Python, Solidity, Bash.<br> -->
 <!-- * Favorite Text Editors & IDEs: VSCode, WebStorm, GoLand, Sublime-Text.<br> -->
 <br>
 
-👩‍💻 I'm currently working on a video conferencing web application.<br>
-🧠 I'm currently learning Zustand and more advanced TypeScript.<br>
+👩‍💻 I'm working on a video conferencing web app with ReactJS &amp; TypeScript.<br>
+🧠 I'm currently learning NextJS, Remix, and more advanced TypeScript.<br><br>
 👯‍♀️ I'm looking to build or collaborate on a full-stack project using:<br>
-<span style="padding-left:5%">- ViteJS &amp; PNPM</span><br>
-<span style="padding-left:5%">- ReactJS &amp; TypeScript</span><br>
-<span style="padding-left:5%">- SASS or TailwindCSS</span><br>
-<span style="padding-left:5%">- Zustand</span><br>
-<span style="padding-left:5%">- Golang</span><br>
-<span style="padding-left:5%">- MongoDB or PostgreSQL</span>
+<div style="padding-left: 5%">
+- ViteJS &amp; PNPM<br>
+- ReactJS, NextJS &amp; TypeScript<br>
+- SASS or TailwindCSS<br>
+- Easy Peasy or Zustand<br>
+- Golang<br>
+- MongoDB or PostgreSQL
+</div>
 <br><br>
 ⚡️ Fun facts...<br>
 <span style="padding-left:5%">* I was a cyber security engineer before I became a developer.</span><br>
@@ -63,7 +65,6 @@ const l33th = {
 
 <br>
 <h2>Languages & Tools:</h2>
-
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -107,6 +108,14 @@ const l33th = {
 ![ArchLinux (Statistics)](https://img.shields.io/badge/-ArchLinux-05122A?style=flat&logo=ArchLinux&logoColor=276DC3)&nbsp;
 ![Redhat (Statistics)](https://img.shields.io/badge/-Redhat-05122A?style=flat&logo=Redhat&logoColor=CC0000)&nbsp;
 ![Windows (Statistics)](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=Windows&logoColor=276DC3)&nbsp;
+<br>
+<br>
+<br>
+<!-- Profile Trophy -->
+### 🏆 GitHub Profile Trophy:
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=l33th&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+</a>
 
 <br>
 <div align="center" >
@@ -120,7 +129,24 @@ const l33th = {
     </a> -->
 <div align="center">
 
-<a href="https://twitter.com/l33th_dev" target="_blank">![twitter](https://img.shields.io/badge/twitter-%2300acee.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white) </a> <a href="https://linkedin.com/in/wmouton" target="_blank">![linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white) </a> <a href="https://www.facebook.com/wl33th" target="_blank">![facebook](https://img.shields.io/badge/facebook-%232E87FB.svg?&amp;style=for-the-badge&amp;logo=facebook&amp;logoColor=white)</a>
+<!-- <a href="https://twitter.com/l33th_dev" target="_blank">![twitter](https://img.shields.io/badge/twitter-%2300acee.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white) </a> <a href="https://linkedin.com/in/wmouton" target="_blank">![linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white) </a> <a href="https://www.facebook.com/wl33th" target="_blank">![facebook](https://img.shields.io/badge/facebook-%232E87FB.svg?&amp;style=for-the-badge&amp;logo=facebook&amp;logoColor=white)</a> -->
+<p id="socialIcons" align="center">
+    <a href="https://linkedin.com/in/wmouton" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
+    </a>
+    <a href="https://hackerrank.com/wmouton_dev" alt="HackerRank">
+        <img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" />
+    </a>
+    <a href="https://twitter.com/l33th_dev" alt="Twitter">
+        <img src="https://img.shields.io/badge/-Twitter-00ACEE?style=flat-square&logo=twitter&logoColor=white" />
+    </a>
+    <a href="https://facebook.com/wl33th" alt="Facebook">
+        <img src="https://img.shields.io/badge/-Facebook-1E77B5?style=flat-square&logo=facebook&logoColor=white" />
+    </a>
+    <!-- <a href="https://stackoverflow.com/users/13870209/ahsan-khan" alt="StackOverflow">
+        <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" />
+    </a> -->
+</p>
 
 </div>
 <!-- 
@@ -166,5 +192,16 @@ const l33th = {
 </div> -->
 <img alt="Wilgerth Mouton's Most Used Languages Stats" width="100%" height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l33th&amp;layout=compact&amp;theme=tokionight&amp;text_color=%23204A87&amp;bg_color=050F2C&amp;border_color=0D1117&amp;langs_count=15">
 
+
+<!--   Top Languages Using -->
+<!-- ### 👨‍💻 Top Languages Used*: -->
+<div align="center">
+<!-- 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=l33th&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=l33th&theme=nord_dark)
+</div> -->
+
+
 <img alt="Wilgerth Mouton's GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=l33th&amp;theme=algolia&amp;hide_border=true&amp;count_private=true&amp;show_icons=true"> <img alt="Wilgerth Mouton's GitHub Streak" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=l33th&amp;theme=algolia&amp;hide_border=true"><img alt="GitHub Activity Graph" width="96%" src="https://activity-graph.herokuapp.com/graph?username=l33th&amp;theme=react-dark&amp;area=true&amp;hide_border=true&amp;custom_title=Contributions%20Graph">
 ![GitHub metrics](https://metrics.lecoq.io/l33th)
+<img src="https://imgur.com/rilHVxA.png"/> 
