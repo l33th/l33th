@@ -37,11 +37,12 @@ const l33th = {
 👯‍♀️ I'm looking to build or collaborate on a full-stack project using:<br>
 <div style="padding-left: 5%">
 - ViteJS &amp; PNPM<br>
-- ReactJS, NextJS &amp; TypeScript<br>
-- SASS or TailwindCSS<br>
-- Easy Peasy or Zustand<br>
-- Golang<br>
-- MongoDB or PostgreSQL
+- ReactJS &amp; TypeScript<br>
+- NextJS or Remix (with TypeScript)<br>
+- SASS, TailwindCSS or Bootstrap<br>
+- Golang and Python<br>
+- MongoDB, PostgreSQL or SQLite3<br>
+- Machine Learning
 </div>
 <br><br>
 ⚡️ Fun facts...<br>
@@ -52,14 +53,6 @@ const l33th = {
 <span style="padding-left:5%">* I admire the Go programming language.</span><br>
 <span style="padding-left:5%">* I like playing first person shooter games.</span><br>
 <br>
-<!-- 
-## Tech Stack
-
-**Client:** ReactJS, TypeScript, SASS, Tailwind, Bootstrap
-
-**Server:** Go, NodeJS, ExpressJS
-
-**Database:** MongoDB, PostgreSQL, Firebase -->
 
 <!-- 🤔 I'm looking for help with... -->
 
@@ -111,6 +104,34 @@ const l33th = {
 <br>
 <br>
 <br>
+<h2>Favorites:</h2>
+
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![TypeScript (Statistics)](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript&logoColor=276DC3)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=TailwindCSS)&nbsp;
+![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=Vite&logoColor=EDD400)&nbsp;
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go&logoColor=729FCF)&nbsp;
+![MongoDB (Statistics)](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&logoColor=4E9A06)&nbsp;
+![Postman (Statistics)](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman&logoColor=F57900)&nbsp;
+![Heroku (Statistics)](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=Heroku&logoColor=75507B)&nbsp;
+![Netlify (Statistics)](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=Netlify&logoColor=276DC3)&nbsp;
+![Vercel (Statistics)](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=Vercel&logoColor=276DC3)&nbsp;
+![Anaconda (Statistics)](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=Anaconda&logoColor=73D216)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Replit (Statistics)](https://img.shields.io/badge/-Replit-05122A?style=flat&logo=Replit&logoColor=276DC3)&nbsp;
+![GoLand (Statistics)](https://img.shields.io/badge/-GoLand-05122A?style=flat&logo=GoLand&logoColor=276DC3)&nbsp;
+![WebStorm (Statistics)](https://img.shields.io/badge/-WebStorm-05122A?style=flat&logo=WebStorm&logoColor=159EC2)&nbsp;
+![Debian (Statistics)](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=Debian&logoColor=EF2929)&nbsp;
+![ArchLinux (Statistics)](https://img.shields.io/badge/-ArchLinux-05122A?style=flat&logo=ArchLinux&logoColor=276DC3)&nbsp;
+
+<br>
+<br>
+<br>
+<br>
+
 <!-- Profile Trophy -->
 ### 🏆 GitHub Profile Trophy:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
