@@ -25,8 +25,7 @@ const l33th = {
 <br>
 <div align="center">
 
-## **SEARCH "project" BY THE REPOS**<br>
-## **TO SEE MY TOP PROJECTS**
+## **SEARCH "project" BY THE REPOS**<br>**TO SEE MY TOP PROJECTS**
 
 </div>
 <br>
