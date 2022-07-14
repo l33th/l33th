@@ -107,13 +107,6 @@ const l33th = {
 <br>
 <br>
 <br>
-
-## 🏆 GitHub Profile Trophy: ##
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=l33th&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
-<br>
-<br>
 <div align="center" >
 <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&amp;size=32&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=50&amp;lines=Software+Engineer;Linux+Wizard;Open-Source+Enthusiast;" alt="Headline">
 </div>
@@ -145,6 +138,6 @@ const l33th = {
 
 
 <img alt="Wilgerth Mouton's GitHub Stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=l33th&amp;theme=algolia&amp;hide_border=true&amp;count_private=true&amp;show_icons=true"> <img alt="Wilgerth Mouton's GitHub Streak" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=l33th&amp;theme=algolia&amp;hide_border=true"><img alt="GitHub Activity Graph" width="90%" src="https://activity-graph.herokuapp.com/graph?username=l33th&amp;theme=react-dark&amp;area=true&amp;hide_border=true&amp;custom_title=Contributions%20Graph">
-![GitHub metrics](https://metrics.lecoq.io/l33th)
+<!-- ![GitHub metrics](https://metrics.lecoq.io/l33th) -->
 <img src="https://imgur.com/rilHVxA.png"/> 
 </div>
