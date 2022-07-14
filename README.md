@@ -142,10 +142,10 @@ const l33th = {
 </p>
 
 <div align="center">
-<img alt="Wilgerth Mouton's Most Used Languages Stats" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l33th&amp;layout=compact&amp;theme=tokionight&amp;text_color=%23204A87&amp;bg_color=050F2C&amp;border_color=0D1117&amp;langs_count=15">
+<img alt="Wilgerth Mouton's Most Used Languages Stats" height="50%" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l33th&amp;layout=compact&amp;theme=tokionight&amp;text_color=%23204A87&amp;bg_color=050F2C&amp;border_color=0D1117&amp;langs_count=15">
 
 
-<img alt="Wilgerth Mouton's GitHub Stats" width="90%" src="https://github-readme-stats.vercel.app/api?username=l33th&amp;theme=algolia&amp;hide_border=true&amp;count_private=true&amp;show_icons=true"> <br><img alt="Wilgerth Mouton's GitHub Streak" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=l33th&amp;theme=algolia&amp;hide_border=true"><img alt="GitHub Activity Graph" width="90%" src="https://activity-graph.herokuapp.com/graph?username=l33th&amp;theme=react-dark&amp;area=true&amp;hide_border=true&amp;custom_title=Contributions%20Graph">
+<img alt="Wilgerth Mouton's GitHub Stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=l33th&amp;theme=algolia&amp;hide_border=true&amp;count_private=true&amp;show_icons=true"> <img alt="Wilgerth Mouton's GitHub Streak" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=l33th&amp;theme=algolia&amp;hide_border=true"><img alt="GitHub Activity Graph" width="90%" src="https://activity-graph.herokuapp.com/graph?username=l33th&amp;theme=react-dark&amp;area=true&amp;hide_border=true&amp;custom_title=Contributions%20Graph">
 ![GitHub metrics](https://metrics.lecoq.io/l33th)
 <img src="https://imgur.com/rilHVxA.png"/> 
 </div>
