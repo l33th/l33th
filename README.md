@@ -32,7 +32,7 @@ const l33th = {
 
 👩‍💻 **I'm working on a video conferencing web app with ReactJS &amp; TypeScript.**<br>
 🧠 **I'm currently learning NextJS, Remix, and more advanced TypeScript.**<br><br>
-👯‍♀️ **I'm looking to build or collaborate on a full-stack project using:**<br>
+👯‍♀️ **I'm planning to build or collaborate on a full-stack project using:**<br>
 <div style="padding-left: 5%">
 
 - ViteJS &amp; PNPM<br>
@@ -60,7 +60,7 @@ const l33th = {
 <br>
 <br>
 
-## Languages & Tools: ##
+## Languages & Tools ##
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -107,6 +107,92 @@ const l33th = {
 <br>
 <br>
 <br>
+
+## Favorite Tech ##
+
+> Tools, languages, and other things that I like to work with.
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#l33th-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96"> 
+      <a href="#l33th-tech" >
+        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
+      </a>
+      <br>Next JS
+    </td>
+    <td align="center" width="96">
+      <a href="#l33th-tech">
+        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+      </a>
+      <br>React JS
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailakar-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#l33th-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="48" height="48" alt="TailWind" />
+      </a>
+      <br>TailWind
+    </td>
+    <td align="center" width="96">
+      <a href="#l33th-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#suhailakar-tech">
+        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
+      </a>
+      <br>Material ui
+    </td>
+    <td align="center" width="96"> 
+      <a href="#l33th-tech" >
+        <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="50" height="50" alt="Redux" />
+      </a>
+      <br>Golang
+    </td>  
+  <td align="center" width="96">
+      <a href="#l33th-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#l33th-tech">
+        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
+      </a>
+      <br>Bash
+    </td>
+     <td align="center" width="96"> 
+      <a href="#l33th-tech" >
+        <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#l33th-tech" >
+        <img src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
+    </td>
+  </tr>
+  </tr>
+</table>
+<br>
+
 <div align="center" >
 <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&amp;size=32&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=50&amp;lines=Software+Engineer;Linux+Wizard;Open-Source+Enthusiast;" alt="Headline">
 </div>
@@ -134,10 +220,8 @@ const l33th = {
 </p>
 
 <div align="center">
-<img alt="Wilgerth Mouton's Most Used Languages Stats" height="50%" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l33th&amp;layout=compact&amp;theme=tokionight&amp;text_color=%23204A87&amp;bg_color=050F2C&amp;border_color=0D1117&amp;langs_count=15">
 
-
-<img alt="Wilgerth Mouton's GitHub Stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=l33th&amp;theme=algolia&amp;hide_border=true&amp;count_private=true&amp;show_icons=true"> <img alt="Wilgerth Mouton's GitHub Streak" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=l33th&amp;theme=algolia&amp;hide_border=true"><img alt="GitHub Activity Graph" width="90%" src="https://activity-graph.herokuapp.com/graph?username=l33th&amp;theme=react-dark&amp;area=true&amp;hide_border=true&amp;custom_title=Contributions%20Graph">
-<!-- ![GitHub metrics](https://metrics.lecoq.io/l33th) -->
+<img alt="Wilgerth Mouton's GitHub Stats" width="90%" src="https://github-readme-stats.vercel.app/api?username=l33th&amp;theme=algolia&amp;hide_border=true&amp;count_private=true&amp;show_icons=true"> <img alt="Wilgerth Mouton's GitHub Streak" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=l33th&amp;theme=algolia&amp;hide_border=true"><img alt="Wilgerth Mouton's Most Used Languages Stats" height="50%" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l33th&amp;layout=compact&amp;theme=tokionight&amp;text_color=%23204A87&amp;bg_color=050F2C&amp;border_color=0D1117&amp;langs_count=15"><img alt="GitHub Activity Graph" width="90%" src="https://activity-graph.herokuapp.com/graph?username=l33th&amp;theme=react-dark&amp;area=true&amp;hide_border=true&amp;custom_title=Contributions%20Graph">
+![GitHub metrics](https://metrics.lecoq.io/l33th)
 <img src="https://imgur.com/rilHVxA.png"/> 
 </div>
